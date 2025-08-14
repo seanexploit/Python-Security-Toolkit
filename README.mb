@@ -1,0 +1,36 @@
+# 🔐 Python Security Toolkit
+
+Welcome to **Python Security Toolkit** – your beginner-friendly, all-in-one security companion in Python! 🐍💻  
+Simulate firewalls, encrypt files, and check password strength with ease.
+
+---
+
+## 🚀 Features
+
+### 1️⃣ Firewall Simulation
+- Quickly check if an IP is **ALLOWED ✅**, **BLOCKED ❌**, or **UNKNOWN ⚠️**.
+- Great for learning the basics of network security.
+
+### 2️⃣ File Encryption & Decryption
+- Encrypt sensitive files using **Fernet symmetric encryption** from the `cryptography` library.
+- Decrypt files securely with your generated key.
+- Encryption is safe, fast, and simple! 🔒
+
+### 3️⃣ Password Strength Checker
+- Evaluates passwords for:
+  - Minimum 8 characters
+  - Digits
+  - Uppercase letters
+  - Lowercase letters
+  - Special symbols
+- Rates passwords as **Weak ❌**, **Moderate ⚠️**, or **Strong 💪**.
+
+---
+
+## 🎯 Installation
+
+1. Clone this repository:
+
+```bash
+git clone <repository-url>
+cd python-security-toolkit
